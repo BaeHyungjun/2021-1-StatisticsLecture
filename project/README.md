@@ -2,6 +2,12 @@
 
 https://www.dacon.io/competitions/official/235713/overview/description/
 
+## 제출 결과
+
+- xgboost_1.csv : logloss : 0.7611119983	
+
+- xgboost_resampled_2.csv : logloss : 0.7960758665
+
 ## 데이터 변수 설명
 
 ● 독립변수
